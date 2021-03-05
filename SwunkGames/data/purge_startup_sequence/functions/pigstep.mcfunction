@@ -1,0 +1,1 @@
+execute in overworld run playsound music_disc.pigstep record @a ~ ~ ~ 10000
